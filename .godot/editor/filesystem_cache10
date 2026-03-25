@@ -1,0 +1,30 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1774457938
+hud.gd::GDScript::1530664657209332989::1774408001::0::1::::<>CanvasLayer<><>0<>0<><>::
+hud.tscn::PackedScene::507372006430080808::1774408367::0::1::::<><><>0<>0<><>::uid://v2p28x4ecb7j::::res://hud.gd<>uid://b13tdymj7xrsw::::res://dodge_the_creeps_2d_assets/fonts/Xolonium-Regular.ttf
+icon.svg::CompressedTexture2D::6690928511227627600::1774392002::1774392006::1::::<><><>0<>0<>9d3abfbaaeaaf1288b9a402983104a91<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.gd::GDScript::7176701208013429862::1774408478::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::518825714536454463::1774408478::0::1::::<><><>0<>0<><>::uid://daiphq0kds4ja::::res://main.gd<>uid://dokiubf8qeyk5::::res://player.tscn<>uid://cg8vua531xr7m::::res://mob.tscn<>uid://hh1lwkd62k37::::res://hud.tscn<>uid://cocmtdkik5shn::::res://dodge_the_creeps_2d_assets/art/House In a Forest Loop.ogg<>uid://bbgacoquvmhum::::res://dodge_the_creeps_2d_assets/art/gameover.wav
+mob.gd::GDScript::2152612237808642506::1774394311::0::1::::<>RigidBody2D<><>0<>0<><>::
+mob.tscn::PackedScene::5263409715476556520::1774408369::0::1::::<><><>0<>0<><>::uid://5w0hdw0hwg07::::res://mob.gd<>uid://dos5qstl6vl0x::::res://dodge_the_creeps_2d_assets/art/enemyFlyingAlt_1.png<>uid://dfsfi1evsrkxx::::res://dodge_the_creeps_2d_assets/art/enemyFlyingAlt_2.png<>uid://dvxiki36m8tc4::::res://dodge_the_creeps_2d_assets/art/enemySwimming_1.png<>uid://d327k0v7mji7y::::res://dodge_the_creeps_2d_assets/art/enemySwimming_2.png<>uid://bihoedha1h2po::::res://dodge_the_creeps_2d_assets/art/enemyWalking_1.png<>uid://0i2t2551kyrd::::res://dodge_the_creeps_2d_assets/art/enemyWalking_2.png
+player.gd::GDScript::3879894444866762824::1774395732::0::1::::<>Area2D<><>0<>0<><>::
+player.tscn::PackedScene::8163071153140891858::1774408370::0::1::::<><><>0<>0<><>::uid://daujbalunwx5a::::res://dodge_the_creeps_2d_assets/art/playerGrey_up1.png<>uid://bvjpkau21h3xs::::res://player.gd<>uid://b6t1hv3cu1rsj::::res://dodge_the_creeps_2d_assets/art/playerGrey_up2.png<>uid://ce178p0qofhry::::res://dodge_the_creeps_2d_assets/art/playerGrey_walk1.png<>uid://jctqsyubg4n1::::res://dodge_the_creeps_2d_assets/art/playerGrey_walk2.png
+::res://dodge_the_creeps_2d_assets/::1744386698
+README.md::TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+::res://dodge_the_creeps_2d_assets/art/::1774392212
+enemyFlyingAlt_1.png::CompressedTexture2D::8180915719383946317::1744386698::1774392212::1::::<><><>0<>0<>2823787d0e0e197903b5f98b3e4f9ed4<>res://.godot/imported/enemyFlyingAlt_1.png-1af413211a2529a30da7d9f2f4a6b808.ctex::
+enemyFlyingAlt_2.png::CompressedTexture2D::7547684312922812437::1744386698::1774392212::1::::<><><>0<>0<>b2a81d217f6c64329a384b8de47d76ed<>res://.godot/imported/enemyFlyingAlt_2.png-b2f2a49fa7280221d9f338a5c8b0f1c6.ctex::
+enemySwimming_1.png::CompressedTexture2D::8681212514569716821::1744386698::1774392212::1::::<><><>0<>0<>886234097e5fa07c302b226ec5bf52cf<>res://.godot/imported/enemySwimming_1.png-496f4d596b206580bb0cb43bea6a7d9e.ctex::
+enemySwimming_2.png::CompressedTexture2D::9182250021006379712::1744386698::1774392212::1::::<><><>0<>0<>fccf5e11f2f437bf10249117c97cb9bb<>res://.godot/imported/enemySwimming_2.png-84bdaa47439f2086cba1bbb144ad8ad3.ctex::
+enemyWalking_1.png::CompressedTexture2D::2963239426568861584::1744386698::1774392212::1::::<><><>0<>0<>6996dfd28acd6c24f9bf48907433413b<>res://.godot/imported/enemyWalking_1.png-902598647b52eae2465ee15bb048e05f.ctex::
+enemyWalking_2.png::CompressedTexture2D::1772910867744990549::1744386698::1774392212::1::::<><><>0<>0<>eb23f9bef588100b4372e43511dde510<>res://.godot/imported/enemyWalking_2.png-ca9a2538e8aef066c27be6b3cf4b7bf4.ctex::
+gameover.wav::AudioStreamWAV::2469000126424326528::1744386698::1774392212::1::::<><><>0<>0<>7b1dfd409e731630f9bfac43235d6d90<>res://.godot/imported/gameover.wav-206d189a962804931fabbddd48441b8d.sample::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::5760376641220307155::1744386698::1774392212::1::::<><><>0<>0<>fa17d82db6839d56402b2a835f09f134<>res://.godot/imported/House In a Forest Loop.ogg-d4bf3307166d72e990a2912704e9010c.oggvorbisstr::
+playerGrey_up1.png::CompressedTexture2D::7201097862809123480::1744386698::1774392212::1::::<><><>0<>0<>92fa3ccc5a0f73ced2415c0487e9b27c<>res://.godot/imported/playerGrey_up1.png-eef40fc788b0fd158b0b22d9bd57fbbd.ctex::
+playerGrey_up2.png::CompressedTexture2D::4603090302532019457::1744386698::1774392212::1::::<><><>0<>0<>00e90c8e96047ecdc2c41005dde6ce6b<>res://.godot/imported/playerGrey_up2.png-d2d56f2f90a8a67f077a1df9ca87efe5.ctex::
+playerGrey_walk1.png::CompressedTexture2D::5109273265727517502::1744386698::1774392212::1::::<><><>0<>0<>eb5792a6f85a7a72dcc418141e42be10<>res://.godot/imported/playerGrey_walk1.png-794ce7dd9f8f9d32d2ddb9dd5b5c6911.ctex::
+playerGrey_walk2.png::CompressedTexture2D::637011527221375368::1744386698::1774392212::1::::<><><>0<>0<>d0052a8a422a85b84ac2863f3ab9efe2<>res://.godot/imported/playerGrey_walk2.png-9e652863850c272ea5fd5b9c411b2b18.ctex::
+::res://dodge_the_creeps_2d_assets/fonts/::1774392212
+FONTLOG.txt::TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile::4270293455190556566::1744386698::1774392212::1::::<><><>0<>0<>aa5ddf39fe0be80a0f0ff0b0e9539722<>res://.godot/imported/Xolonium-Regular.ttf-037c802a1de93f298e468e8029b92fb2.fontdata::
